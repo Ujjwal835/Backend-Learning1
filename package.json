@@ -1,0 +1,17 @@
+{
+  "name": "deployment-learning",
+  "version": "1.0.0",
+  "description": "Learning Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ujjwal jinda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
